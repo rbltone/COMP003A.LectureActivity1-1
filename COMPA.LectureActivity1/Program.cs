@@ -1,4 +1,10 @@
-﻿//namespace level
+﻿/*
+    Author: Anthony Perez
+    Course Name: COMP-003A
+    Facuty: Jonathan Cruz
+    Purpose: basic console app
+ */
+//namespace level
 namespace COMPA.LectureActivity1
 {
     //class level
